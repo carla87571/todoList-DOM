@@ -11,7 +11,7 @@ Una aplicación web de gestión de tareas construida con JavaScript vanilla, man
 
 ## 🌟 Demo en Vivo
 
-[👉 Ver aplicación en vivo](https://TU-USUARIO.github.io/todolist-dom)
+[👉 Ver aplicación en vivo](https://carla87571.github.io/todoList-DOM/)
 
 ## ✨ Características
 
@@ -35,9 +35,10 @@ Una aplicación web de gestión de tareas construida con JavaScript vanilla, man
 
 ### Opción 1: Clonar repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/todolist-dom.git
-cd todolist-dom
+git clone https://github.com/carla87571/todoList-DOM.git
+cd todoList-DOM
 # Abrir index.html en tu navegador
+```
 
 ## Estructura del proyecto:
 todolist-dom/
